@@ -1,0 +1,171 @@
+[
+    {
+  "name": "Green Technology Expo",
+  "img": "https://example.com/image8.jpg",
+  "location": "Netherlands",
+  "date": "Aug 10, 2024",
+  "time": "09:30 AM - 05:30 PM",
+  "organizer": {
+    "name": "Thomas Van Der Berg",
+    "phone": "+880 199 8999 999",
+    "email": "thomas@example.com",
+    "website": "https://greentechexpo.nl/"
+  },
+  "venue": {
+    "name": "Amsterdam Sustainability Hub",
+    "phone": "+880 199 8999 999",
+    "website": "https://amsterdamsustainabilityhub.com/"
+  },
+  "eventAbout": "Explore the latest innovations in green technology! The Green Technology Expo showcases sustainable solutions, renewable energy advancements, and eco-friendly practices.",
+  "eventDuring": "Participate in hands-on demonstrations, keynote presentations, and collaborative discussions. Connect with experts and organizations dedicated to a greener future.",
+  "programs": [
+    { "title": "Renewable Energy Showcase" },
+    { "title": "Smart Cities and Sustainability" },
+    { "title": "Circular Economy Practices" },
+    { "title": "Green Building Technologies" },
+    { "title": "Innovations in Waste Management" }
+  ],
+  "mapDirection": "Head to the Amsterdam Sustainability Hub for a day of exploring green technology and environmental sustainability."
+},
+{
+  "name": "E-commerce Success Conference",
+  "img": "https://example.com/image7.jpg",
+  "location": "Australia",
+  "date": "Jul 15, 2024",
+  "time": "10:00 AM - 06:00 PM",
+  "organizer": {
+    "name": "Sophie Anderson",
+    "phone": "+880 199 8888 888",
+    "email": "sophie@example.com",
+    "website": "https://ecommercesuccess.com/"
+  },
+  "venue": {
+    "name": "Sydney Convention Center",
+    "phone": "+880 199 8888 888",
+    "website": "https://sydneyconvention.com/"
+  },
+  "eventAbout": "Unlock the secrets to e-commerce success! Join industry leaders at this conference to discover the latest strategies, trends, and technologies driving success in the online retail space.",
+  "eventDuring": "Engage in expert-led workshops, panel discussions, and networking sessions. Gain insights into e-commerce best practices and learn from successful online businesses.",
+  "programs": [
+    { "title": "Optimizing Product Pages for Conversions" },
+    { "title": "Social Commerce Strategies" },
+    { "title": "Effective Email Marketing for E-commerce" },
+    { "title": "Customer Retention Tactics" },
+    { "title": "The Future of E-commerce" }
+  ],
+  "mapDirection": "Find your way to the Sydney Convention Center for a day of e-commerce insights and strategies."
+},
+{
+  "name": "AI Innovation Summit",
+  "img": "https://example.com/image6.jpg",
+  "location": "United States",
+  "date": "Jun 20, 2024",
+  "time": "11:00 AM - 07:00 PM",
+  "organizer": {
+    "name": "Emily Davis",
+    "phone": "+880 199 8777 777",
+    "email": "emily@example.com",
+    "website": "https://aiinnovationsummit.com/"
+  },
+  "venue": {
+    "name": "Silicon Valley Conference Center",
+    "phone": "+880 199 8777 777",
+    "website": "https://siliconvalleyconference.com/"
+  },
+  "eventAbout": "Explore the frontier of artificial intelligence! The AI Innovation Summit gathers leading AI experts to share groundbreaking developments, applications, and ethical considerations in AI.",
+  "eventDuring": "Participate in live demonstrations, expert talks, and Q&A sessions. Network with professionals at the forefront of AI innovation and stay informed about the latest advancements.",
+  "programs": [
+    { "title": "Machine Learning for Beginners" },
+    { "title": "Ethics in Artificial Intelligence" },
+    { "title": "AI in Healthcare" },
+    { "title": "Natural Language Processing (NLP)" },
+    { "title": "Robotics and AI Integration" }
+  ],
+  "mapDirection": "Navigate to the Silicon Valley Conference Center for a day of AI exploration and innovation."
+}
+,{
+  "name": "Blockchain Technology Symposium",
+  "img": "https://example.com/image5.jpg",
+  "location": "Germany",
+  "date": "May 5, 2024",
+  "time": "09:30 AM - 05:30 PM",
+  "organizer": {
+    "name": "Markus Schmidt",
+    "phone": "+880 199 8666 666",
+    "email": "markus@example.com",
+    "website": "https://blockchainsymposium.de/"
+  },
+  "venue": {
+    "name": "Berlin Tech Hub",
+    "phone": "+880 199 8666 666",
+    "website": "https://berlintechhub.com/"
+  },
+  "eventAbout": "Dive into the world of blockchain technology! This symposium brings together experts and enthusiasts to explore the latest developments, use cases, and future trends in blockchain.",
+  "eventDuring": "Engage in workshops, panel discussions, and hands-on activities. Connect with professionals shaping the future of blockchain and gain insights into this transformative technology.",
+  "programs": [
+    { "title": "Understanding Blockchain Fundamentals" },
+    { "title": "Smart Contracts and DApps" },
+    { "title": "Blockchain in Finance and Beyond" },
+    { "title": "Decentralized Autonomous Organizations (DAOs)" },
+    { "title": "Blockchain Security Measures" }
+  ],
+  "mapDirection": "Head to the Berlin Tech Hub and be part of the blockchain revolution!"
+}
+,{
+  "name": "Digital Marketing Insights Summit",
+  "img": "https://example.com/image4.jpg",
+  "location": "Canada",
+  "date": "Apr 10, 2024",
+  "time": "10:30 AM - 06:30 PM",
+  "organizer": {
+    "name": "Alexandra Turner",
+    "phone": "+880 199 8555 555",
+    "email": "alexandra@example.com",
+    "website": "https://digitalmarketingsummit.ca/"
+  },
+  "venue": {
+    "name": "Toronto Convention Center",
+    "phone": "+880 199 8555 555",
+    "website": "https://torontoconvention.com/"
+  },
+  "eventAbout": "Explore the latest trends and strategies in digital marketing! This summit brings together experts to share valuable insights on SEO, social media, content marketing, and more.",
+  "eventDuring": "Participate in interactive sessions, case studies, and panel discussions. Network with top professionals in the digital marketing industry and stay ahead of the curve.",
+  "programs": [
+    { "title": "SEO Best Practices" },
+    { "title": "Social Media Marketing Strategies" },
+    { "title": "Content Marketing for Success" },
+    { "title": "Data-Driven Marketing" },
+    { "title": "Conversion Optimization Techniques" }
+  ],
+  "mapDirection": "Navigate to the Toronto Convention Center and immerse yourself in the world of digital marketing excellence."
+}
+,{
+  "name": "Innovate & Elevate: Web Design Summit",
+  "img": "https://example.com/image3.jpg",
+  "location": "United States",
+  "date": "Mar 22, 2024",
+  "time": "10:00 AM - 07:00 PM",
+  "organizer": {
+    "name": "Chris Johnson",
+    "phone": "+880 199 8444 444",
+    "email": "chris@example.com",
+    "website": "https://webdesignsummit.org/"
+  },
+  "venue": {
+    "name": "Tech Hub Conference Center",
+    "phone": "+880 199 8444 444",
+    "website": "https://techhubconference.com/"
+  },
+  "eventAbout": "Join us for a day of innovation and inspiration! The Web Design Summit brings together leading web designers to share their insights, tips, and strategies for creating cutting-edge websites.",
+  "eventDuring": "Discover the latest web design trends, tools, and frameworks. Engage in discussions with industry experts and fellow enthusiasts. Elevate your web design skills to new heights!",
+  "programs": [
+    { "title": "Responsive Design Mastery" },
+    { "title": "CSS3 and Beyond" },
+    { "title": "Web Accessibility Best Practices" },
+    { "title": "JavaScript for Modern Web Design" },
+    { "title": "Designing for Conversions" }
+  ],
+  "mapDirection": "Find your way to the Tech Hub Conference Center for a day filled with web design excellence."
+}
+
+]
