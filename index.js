@@ -7,13 +7,8 @@ const eventRouter = require("./modules/events/event.routes");
 const dbConnection = require("./mongodb/dbConnection");
 
 app.use(eventRouter);
-app.use(cors(corsOptions));
-app.use(cors());
 // cors
-var corsOptions = {
-    origin: 'http://localhost:3000',
-    optionsSuccessStatus: 200 
-}
+app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
