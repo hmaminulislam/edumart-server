@@ -1,4 +1,3 @@
-const { ObjectId } = require("mongodb");
 const eventsModel = require("./event.model")
 
 exports.getEvents = async (req, res) => {
