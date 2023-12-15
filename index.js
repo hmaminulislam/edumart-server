@@ -6,16 +6,17 @@ const cors = require("cors");
 const eventRouter = require("./modules/events/event.routes");
 const dbConnection = require("./mongodb/dbConnection");
 
-app.use(eventRouter);
 // cors
-app.use(cors({ origin: "http://localhost:3000" }));
+app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
 dbConnection();
 
+app.use(eventRouter);
+
 app.get("/", (req, res) => {
-  res.send("edumart");
+  res.send("edumart server starting...");
 });
 
 app.listen(port, () => {
