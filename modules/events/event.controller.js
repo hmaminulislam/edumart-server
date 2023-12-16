@@ -4,8 +4,8 @@ exports.getEvents = async (req, res) => {
     try {
         const events = await eventsModel.find();
         res.send({ events });
-    } catch {
-        res.send({status: 404})
+    } catch(error) {
+        res.send({status: 401, error})
     }
     
 }
@@ -16,6 +16,6 @@ exports.getEvent = async (req, res) => {
         const event = await eventsModel.findById(id)
         res.send(event)
     } catch (error){
-        res.send({status: 404, error})
+        res.send({status: 401, error})
     }
 }
