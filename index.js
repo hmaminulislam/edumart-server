@@ -6,21 +6,27 @@ const cors = require("cors");
 const dbConnection = require("./mongodb/dbConnection");
 const eventRouter = require("./modules/events/event.routes");
 const courseRouter = require("./modules/courses/course.routes")
+const blogRouter = require("./modules/blogs/blog.routes")
 
 // cors
 app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
+// database connection 
 dbConnection();
 
+// routers 
 app.use(eventRouter);
 app.use(courseRouter);
+app.use(blogRouter)
 
+// root route 
 app.get("/", (req, res) => {
   res.send("edumart server starting...");
 });
 
+// app listen 
 app.listen(port, () => {
   console.log(`edumart port: ${port}`);
 });

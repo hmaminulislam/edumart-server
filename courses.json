@@ -1,67 +1,84 @@
 [
     {
-        "name": "Bigener Adobe Illustrator for Graphic Design",
-        "Lessons": 6,
-        "img": "https://i.ibb.co/XkKRyy4/course15.jpg",        
-        "duration": "12h 30m",
-        "students": 58,
-        "price": 45.00,
-        "lavel": "Beginner",
-        "enrolled": 50,
-        "language": "English",
-        "lastUpdate": "July 23, 2023 Last",
-        "instructorName": "John Smith",
-        "instructorImg": "https://i.ibb.co/vLBQ86f/instructor01.png",
-        "instructorDetails": "Anyone wanting to learn the truth about dieting & meal planning. Anyone with an open mind towards dieting.",
-        "Requirements": "Develop fluency in spoken and written English. Enhance vocabulary and language comprehension skills.",
-        "info": "Are you new to PHP or need a refresher? Then this course will help you get all the fundamentals of Procedural PHP, Object Oriented PHP, MYSQLi and ending the course by building a CMS system similar to WordPress, Joomla or Drupal. Knowing PHP has allowed me to make enough money to stay home and make courses like this one for students all over the world. Being a PHP developer can allow anyone to make really good money online and offline, developing dynamic applications. Knowing PHP will allow you to build web applications, websites or Content Management systems, like WordPress, Facebook, Twitter or even Google. There is no limit to what you can do with this knowledge. PHP is one of the most important web programming languages to learn, and knowing it, will give you SUPER POWERS in the web development world and job market place. Why? Because Millions of websites and applications (the majority) use PHP. You can find a job anywhere or even work on your own, online and in places like freelancer or Odesk. You can definitely make a substantial income once you learn it. I will not bore you 🙂 I take my courses very seriously but at the same time I try to make it fun since I know how difficult learning from an instructor with a monotone voice or boring attitude is. This course is fun, and when you need some energy to keep going, you will get it from me. My Approach Practice, practice and more practice. Every section inside this course has a practice lecture at the end, reinforcing everything with went over in the lectures. I also created a small application the you will be able to download to help you practice PHP. To top it off, we will build and awesome CMS like WordPress, Joomla or Drupal.",
-        "programs": [{"title": "Become a UX designer."}, { "title": "You will be able to add UX designe" }, { "title": "Become a UI designer." }, { "title": "Create quick wireframes." }, { "title": "Downloadable exercise files" }, {"title":"Become a seller guide"}],
-        "curriculam" : [
-  {
-    "moduleName": "Installing WordPress Locally",
-    "moduleItems": [
-      { "title": "How to install WordPress on your PC" },
-      { "title": "Closing Down Local Site" },
-      { "title": "Desktop Server Updated – Insecure Fix" }
-    ]
-  },
-  {
-    "moduleName": "A first look around WordPress",
-    "moduleItems": [
-      { "title": "The WordPress Dashboard" },
-      { "title": "Post & Page Editor" },
-      { "title": "The Gutenberg Editor" }
-    ]
-  },
-  {
-    "moduleName": "Wordpress settings, Plugins and Themes",
-    "moduleItems": [
-      { "title": "Setting up a Gravatar" },
-      { "title": "Plugins & Adding a Sitemap" },
-      { "title": "Allowing Comments & Comment Moderation" }
-    ]
-  },
-  {
-    "moduleName": "Website conten with posts and pages",
-    "moduleItems": [
-      { "title": "WordPress Posts vs WordPress Pages" },
-      { "title": "Social Sharing" },
-      { "title": "Importance of Post Excerpts" }
-    ]
-  },
-  {
-    "moduleName": "WordPress security",
-    "moduleItems": [
-      { "title": "Introduction to WordPress Security" },
-      { "title": "What to Do if a Plugin Locks you Out" },
-      { "title": "How to change your WordPress Author Page Name (Advanced)" }
-    ]
-  }
-]
-},
+      "name": "Bigener Adobe Illustrator for Graphic Design",
+      "Lessons": 6,
+      "category": "Design",
+      "img": "https://i.ibb.co/XkKRyy4/course15.jpg",
+      "duration": "12h 30m",
+      "students": 58,
+      "price": 45.0,
+      "lavel": "Beginner",
+      "enrolled": 50,
+      "language": "English",
+      "lastUpdate": "July 23, 2023 Last",
+      "instructorName": "John Smith",
+      "instructorImg": "https://i.ibb.co/vLBQ86f/instructor01.png",
+      "instructorDetails": "Anyone wanting to learn the truth about dieting & meal planning. Anyone with an open mind towards dieting.",
+      "Requirements": "Develop fluency in spoken and written English. Enhance vocabulary and language comprehension skills.",
+      "info":"Unlock the power of Adobe Illustrator for Graphic Design. Learn the fundamentals of vector graphics, design principles, and create stunning visuals for print and digital media. Whether you're a beginner or looking to enhance your skills, this course is your gateway to the world of graphic design.",
+      "programs": [
+        { "title": "Become a UX designer." },
+        { "title": "You will be able to add UX designe" },
+        { "title": "Become a UI designer." },
+        { "title": "Create quick wireframes." },
+        { "title": "Downloadable exercise files" },
+        { "title": "Become a seller guide" }
+      ],
+      "curriculum": [
+        {
+          "moduleName": "Introduction to Adobe Illustrator",
+          "moduleItems": [
+            { "title": "Overview of Adobe Illustrator interface" },
+            { "title": "Tools and panels in Illustrator" },
+            { "title": "Setting up a new project and document" }
+          ]
+        },
+        {
+          "moduleName": "Understanding Vector Graphics",
+          "moduleItems": [
+            { "title": "Difference between vector and raster graphics" },
+            { "title": "Benefits of using vector graphics in design" },
+            { "title": "Introduction to anchor points and paths" }
+          ]
+        },
+        {
+          "moduleName": "Basic Design Principles",
+          "moduleItems": [
+            { "title": "Composition and layout in graphic design" },
+            { "title": "Typography and font selection" },
+            { "title": "Using contrast, color, and hierarchy in design" }
+          ]
+        },
+        {
+          "moduleName": "Creating Shapes and Paths",
+          "moduleItems": [
+            { "title": "Drawing basic shapes and custom paths" },
+            { "title": "Manipulating and transforming objects" },
+            { "title": "Utilizing the pen tool for precise designs" }
+          ]
+        },
+        {
+          "moduleName": "Working with Colors and Gradients",
+          "moduleItems": [
+            { "title": "Color modes and color theory" },
+            { "title": "Applying and editing gradients" },
+            { "title": "Creating color swatches and patterns" }
+          ]
+        },
+        {
+          "moduleName": "Designing Logos and Icons",
+          "moduleItems": [
+            { "title": "Conceptualizing and sketching a logo" },
+            { "title": "Digitalizing sketches in Adobe Illustrator" },
+            { "title": "Designing scalable icons for various applications" }
+          ]
+        }
+      ]
+    },
   {
     "name": "Advanced Python Programming",
     "lessons": 8,
+    "category": "Programming",
     "img": "https://i.ibb.co/rQNYM19/courses01.jpg",
     "duration": "20h 45m",
     "students": 72,
@@ -114,6 +131,7 @@
   {
     "name": "Web Development with React.js",
     "lessons": 10,
+    "category": "Development",
     "img": "https://i.ibb.co/wBbxRZG/course14.jpg",
     "duration": "18h 30m",
     "students": 90,
@@ -180,6 +198,7 @@
   },{
     "name": "Data Science Fundamentals with Python",
     "lessons": 12,
+    "category": "Programming",
     "img": "https://i.ibb.co/LpvFqZv/course13.jpg",
     "duration": "22h 15m",
     "students": 120,
@@ -254,6 +273,7 @@
   },{
     "name": "Digital Marketing Mastery",
     "lessons": 15,
+    "category": "Business",
     "img": "https://i.ibb.co/jRpHtdG/course12.jpg",
     "duration": "25h 30m",
     "students": 150,
@@ -328,6 +348,7 @@
   },{
     "name": "Mobile App Development with Flutter",
     "lessons": 18,
+    "category": "Development",
     "img": "https://i.ibb.co/pzQQLbf/course09.jpg",
     "duration": "30h 15m",
     "students": 180,
@@ -402,6 +423,7 @@
   },{
     "name": "Blockchain Development Masterclass",
     "lessons": 20,
+    "category": "Development",
     "img": "https://i.ibb.co/TPWdSxd/course07.jpg",
     "duration": "35h 45m",
     "students": 200,
@@ -476,6 +498,7 @@
   },{
     "name": "Artificial Intelligence for Beginners",
     "lessons": 12,
+    "category": "Programming",
     "img": "https://i.ibb.co/KwByXNq/courses11.jpg",
     "duration": "20h 30m",
     "students": 100,
@@ -552,6 +575,7 @@
   },{
     "name": "Python Web Development with Django",
     "lessons": 16,
+    "category": "Development",
     "img": "https://i.ibb.co/Nsv3X8j/courses10.jpg",
     "duration": "28h 45m",
     "students": 150,
@@ -626,6 +650,7 @@
   },{
     "name": "Data Visualization with D3.js",
     "lessons": 10,
+    "category": "Business",
     "img": "https://i.ibb.co/V9fKk61/courses08.jpg",
     "duration": "18h 30m",
     "students": 80,
@@ -700,6 +725,7 @@
   },{
     "name": "Mobile Photography Masterclass",
     "lessons": 8,
+    "category": "Design",
     "img": "https://i.ibb.co/M2BvdHR/courses06.jpg",
     "duration": "15h 30m",
     "students": 60,
@@ -774,6 +800,7 @@
   },{
     "name": "Digital Marketing Fundamentals",
     "lessons": 14,
+    "category": "Business",
     "img": "https://i.ibb.co/jZPSYXQ/courses05.jpg",
     "duration": "22h 45m",
     "students": 120,
@@ -850,6 +877,7 @@
   },{
     "name": "Introduction to 3D Printing",
     "lessons": 10,
+    "category": "Design",
     "img": "https://i.ibb.co/x38yTsf/courses04.jpg",
     "duration": "14h 20m",
     "students": 70,
@@ -926,6 +954,7 @@
   },{
     "name": "Ethical Hacking and Cybersecurity",
     "lessons": 12,
+    "category": "Programming",
     "img": "https://i.ibb.co/K9CMKs6/courses03.jpg",
     "duration": "20h 15m",
     "students": 90,
@@ -1000,6 +1029,7 @@
   },{
     "name": "Machine Learning for Beginners",
     "lessons": 20,
+    "category": "Programming",
     "img": "https://i.ibb.co/grTw6Xq/courses02.jpg",
     "duration": "30h 40m",
     "students": 120,

@@ -1,4 +1,6 @@
 const courseModel = require('./course.model')
+
+// get all courses 
 exports.getCourses = async (req, res) => {
   try {
     const courses = await courseModel.find();
@@ -8,6 +10,7 @@ exports.getCourses = async (req, res) => {
   }
 };
 
+// get course by id 
 exports.getCourse = async (req, res) => {
   try {
     const id = req.params.id;
