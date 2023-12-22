@@ -7,6 +7,7 @@ const dbConnection = require("./mongodb/dbConnection");
 const eventRouter = require("./modules/events/event.routes");
 const courseRouter = require("./modules/courses/course.routes")
 const blogRouter = require("./modules/blogs/blog.routes")
+const productRouter = require('./modules/products/product.routes')
 
 // cors
 app.use(cors());
@@ -19,7 +20,8 @@ dbConnection();
 // routers 
 app.use(eventRouter);
 app.use(courseRouter);
-app.use(blogRouter)
+app.use(blogRouter);
+app.use(productRouter);
 
 // root route 
 app.get("/", (req, res) => {

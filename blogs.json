@@ -14,7 +14,8 @@
         { "title": "Astronomy for Beginners" }
       ],
       "conclusion": "In conclusion, our journey through the cosmos has been a captivating odyssey, unraveling the secrets of the universe. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac libero et quam tincidunt feugiat ac id lectus. In hac habitasse platea dictumst. Curabitur varius eros rutrum consequat. Mauris sollicitudin enim condimentum luctus enim justo non molestie nisl.",
-      "category": "Science & Astronomy"
+      "category": "Science & Astronomy",
+      "date": "June 22, 2023"
     },{
       "name": "The Culinary Chronicles: A Gastronomic Adventure",
       "img": "https://i.ibb.co/FDKBW4y/medium-shot-1.jpg",
@@ -30,7 +31,8 @@
         { "title": "Chocolate Tasting Workshop" }
       ],
       "conclusion": "In conclusion, our gastronomic adventure has been a feast for the senses, celebrating the rich tapestry of global cuisines. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac libero et quam tincidunt feugiat ac id lectus. In hac habitasse platea dictumst. Curabitur varius eros rutrum consequat. Mauris sollicitudin enim condimentum luctus enim justo non molestie nisl.",
-      "category": "Food & Culinary"
+      "category": "Food & Culinary",
+      "date": "July 12, 2023"
     },
     {
       "name": "The Zen Garden: Nurturing Serenity in Everyday Life",
@@ -47,7 +49,8 @@
         { "title": "Yoga for Inner Peace" }
       ],
       "conclusion": "In conclusion, our exploration of the Zen Garden has been a transformative journey, bringing balance and serenity into our lives. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac libero et quam tincidunt feugiat ac id lectus. In hac habitasse platea dictumst. Curabitur varius eros rutrum consequat. Mauris sollicitudin enim condimentum luctus enim justo non molestie nisl.",
-      "category": "Mindfulness & Wellness"
+      "category": "Mindfulness & Wellness",
+      "date": "Jan 14, 2023"
     },{
       "name": "The Secret Lives of Bookworms",
       "img": "https://i.ibb.co/HBZ18RF/female-meditating.jpg",
@@ -63,7 +66,8 @@
         { "title": "Literary Travel: Exploring Bookish Destinations" }
       ],
       "conclusion": "In conclusion, our exploration of the secret lives of bookworms has unveiled the profound impact of literature on our lives. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac libero et quam tincidunt feugiat ac id lectus. In hac habitasse platea dictumst. Curabitur varius eros rutrum consequat. Mauris sollicitudin enim condimentum luctus enim justo non molestie nisl.",
-      "category": "Books & Literature"
+      "category": "Books & Literature",
+      "date": "June 19, 2023"
     },{
       "name": "The Green Thumb Chronicles: Cultivating a Garden Paradise",
       "img": "https://i.ibb.co/njj5Pk9/happy.jpg",
@@ -79,7 +83,8 @@
         { "title": "Zen Gardening: Finding Serenity in Soil" }
       ],
       "conclusion": "In conclusion, our gardening journey has blossomed into a vibrant tapestry of colors, scents, and ecological harmony. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac libero et quam tincidunt feugiat ac id lectus. In hac habitasse platea dictumst. Curabitur varius eros rutrum consequat. Mauris sollicitudin enim condimentum luctus enim justo non molestie nisl.",
-      "category": "Gardening & Nature"
+      "category": "Gardening & Nature",
+      "date": "Feb 20, 2023"
     },{
       "name": "Wanderlust Chronicles: A Global Expedition",
       "img": "https://i.ibb.co/Jp4K9pD/mountains.jpg",
@@ -97,6 +102,7 @@
         { "title": "Digital Nomad Workshop: Working from Anywhere" }
       ],
       "conclusion": "In conclusion, our wanderlust has been fulfilled, and our global expedition has left us with a treasure trove of memories from around the world. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac libero et quam tincidunt feugiat ac id lectus. In hac habitasse platea dictumst. Curabitur varius eros rutrum consequat. Mauris sollicitudin enim condimentum luctus enim justo non molestie nisl.",
-      "category": "Travel & Exploration"
+      "category": "Travel & Exploration",
+      "date": "Aug 10, 2023"
     }
 ]

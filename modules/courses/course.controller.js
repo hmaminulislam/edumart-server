@@ -1,16 +1,16 @@
-const courseModel = require('./course.model')
+const courseModel = require("./course.model");
 
-// get all courses 
+// get all courses
 exports.getCourses = async (req, res) => {
   try {
     const courses = await courseModel.find();
     res.send({ courses });
-  } catch(error){
-    res.send({ status: 401 , error});
+  } catch (error) {
+    res.send({ status: 401, error });
   }
 };
 
-// get course by id 
+// get course by id
 exports.getCourse = async (req, res) => {
   try {
     const id = req.params.id;

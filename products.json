@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Book Cover Design",
+        "img": "https://i.ibb.co/1v9QqF7/product-01.png",
+        "price": 36.00,
+        "description": "A solitary figure standing at the edge of the forest, peering into the unknown. This could be the protagonist or a representation of the book's main themes. Ethereal elements like fireflies or magical sparkles to add a touch of fantasy.",
+        "category": "Art & Design",
+        "tags": [{"name": "Cover"}, {"name": "UX/UI"}]
+    },
+    {
+      "name": "A Million To One",
+      "img": "https://i.ibb.co/Hzff0gZ/product08-1.png",
+      "price": 39.00,
+      "description": "Josefa is an unapologetic and charismatic thief, who loves the thrill of the chase. She has her eye on her biggest mark yet—the RMS Titanic, the most luxurious ship in the world. But she isn't interested in stealing from wealthy first-class passengers onboard.",
+      "category": "Busniness",
+      "tags": [{ "name": "Apps" }, { "name": "Finance" }]
+    },
+    {
+      "name": "Create An EBook Cover",
+      "img": "https://i.ibb.co/dW4mqpZ/product-1.png",
+      "price": 69.00,
+      "description": "What makes a good ebook cover? Draw people in with an e-book cover that uses an eye-catching color scheme, unique typography, a title that is clear and easy to read, minimal graphics, and balance between text and negative space. Be sure your cover will also look good as a thumbnail image.",
+      "category": "Development",
+      "tags": [{ "name": "Cover" }, { "name": "UX/UI" }]
+    },
+    {
+      "name": "EBook Cover Design",
+      "img": "https://i.ibb.co/j5sDqjh/product-1.png",
+      "price":29.00,
+      "description": "There are only two important design elements that should be on your ebook cover page. These are the title and your name, as the author. However, there are optional information and details you can add as well. We're talking about the subtitle, background images, and graphics.",
+      "category": "Art & Design",
+      "tags": [{ "name": "Cover" }, { "name": "UX/UI" }]
+    },
+    {
+      "name": "My Book Cover",
+      "img": "https://i.ibb.co/dmpfycd/product-1.png",
+      "price":24.00,
+      "description": "How to Write a Good Book Description | IngramSpark Describe your book in simple, straightforward, and consumer-friendly terms. Your description should be at least 150-200 words long. Give readers enough information to understand what your book is, what it's about, and if they'll like it—key factors in deciding whether to buy your book.",
+      "category": "Art & Design",
+      "tags": [{ "name": "Cover" }, { "name": "UX/UI" }]
+    },
+    {
+      "name": "SEO Tricks & Tips",
+      "img": "https://i.ibb.co/p2gv02R/product01.webp",
+      "price":30.00,
+      "description": "SEO (Search Engine Optimization) is a crucial aspect of digital marketing that helps improve a website's visibility on search engines like Google. Here are some tricks and tips to enhance your SEO efforts.",
+      "category": "Development",
+      "tags": [{ "name": "Seo" }, { "name": "Development" }]
+    },
+    {
+      "name": "The Hypocrite World",
+      "img": "https://i.ibb.co/9VdGVNC/product05.webp",
+      "price":29.00,
+      "description": "The concept of a Hypocrite World is not a universally recognized or defined term. However, if you are referring to a hypothetical scenario or a metaphorical description, one might envision a world characterized by contradictions, insincerity, and double standards.",
+      "category": "Health & Fitness",
+      "tags": [{ "name": "Data Science" }, {"name": "Development"}]
+    },
+    {
+      "name": "The Mind Of Leader",
+      "img": "https://i.ibb.co/XpH0v8z/product06.webp",
+      "price":49.00,
+      "description": "The Mind of a Leader refers to the cognitive and psychological attributes that characterize effective leadership. Leadership is a complex trait that involves a combination of skills, attitudes, and behaviors. Here are key aspects that describe the mind of a leader.",
+      "category": "Health & Fitness",
+      "tags": [{ "name": "Data Science" }, {"name": "Mind"}]
+    },
+    {
+      "name": "The Book Of Art",
+      "img": "https://i.ibb.co/FBkrNG9/product09.webp",
+      "price":15.00,
+      "description": "The Book of Art could be a metaphorical or fictional collection that encapsulates the world's most profound and influential works of art. It might showcase paintings, sculptures, literature, music, and other forms of artistic expression.",
+      "category": "Art & Design",
+      "tags": [{ "name": "Business" }, {"name": "Lifestyle"}]
+    }
+]

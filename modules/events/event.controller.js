@@ -1,5 +1,6 @@
 const eventsModel = require("./event.model")
 
+// all events find from database
 exports.getEvents = async (req, res) => {
     try {
         const events = await eventsModel.find();
@@ -10,6 +11,7 @@ exports.getEvents = async (req, res) => {
     
 }
 
+// single event find by id from database
 exports.getEvent = async (req, res) => {
     try {
         const id = req.params.id;
