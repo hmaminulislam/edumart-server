@@ -17,7 +17,7 @@ app.use(express.urlencoded({ extended: true }));
 // database connection 
 dbConnection();
 
-// routers 
+// all routers 
 app.use(eventRouter);
 app.use(courseRouter);
 app.use(blogRouter);
